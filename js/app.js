@@ -2,8 +2,8 @@
 let boton = document.querySelector('#addText');
 let vacioDiv = document.querySelector('#miDiv');
 
-let parrafo = document.querySelector('.parrafo');
-console.log(parrafo);
+// let parrafo = document.querySelector('.parrafo');
+// console.log(parrafo);
 
 //* Vamos a estar atentos al evento click del botón
 
